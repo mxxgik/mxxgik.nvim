@@ -3,6 +3,7 @@
 
 return {
   'windwp/nvim-autopairs',
+  disable = true,
   event = 'InsertEnter',
   opts = {},
 }
