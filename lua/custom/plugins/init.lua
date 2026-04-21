@@ -2,4 +2,4 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
-return { 'rebelot/kanagawa.nvim' }
+return { { 'rebelot/kanagawa.nvim' }, { 'nyoom-engineering/oxocarbon.nvim' }, { 'EdenEast/nightfox.nvim' } }
